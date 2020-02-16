@@ -1,2 +1,2 @@
 # natours-responsive
-Fully responsive website | Using SASS
+[ working page ](https://salikovskiy.github.io/natours-responsive/)
