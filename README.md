@@ -1,4 +1,6 @@
-## [Natours](https://salikovskiy.github.io/natours-responsive/)
+## Natours
+### [💽 Demo](https://salikovskiy.github.io/natours-responsive/)
+
 A mockup landing page for a travel agency startup. This coding exercise capitalizes on the capabilities of HTML and CSS.
 
 ## Goals
